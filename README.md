@@ -1,2 +1,2 @@
 # reportes_trimestrales
-Repositorio de los reportes trimestrales
+Repositorio de los reportes trimestrales.  La información de los estados financieros trimestrales son obtenidos a través de las diferentes plataformas a las que las emisoras bursátiles se ven obligadas a presentar su información trimestral ante la autoridad y la BMV.  dabu.io no se hace responsable por la veracidad, exactitud, discrepáncia, entre otros de la información.  dabu.io solo recolecta y presenta la información para facilitarle a sus usuarios la obtención de la misma.  
